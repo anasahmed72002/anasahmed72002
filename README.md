@@ -1,5 +1,5 @@
 
-<img width="100" align="right" src="https://miro.medium.com/v2/resize:fit:720/0*ZHIv88N3CtwWjaBM.gif">
+<img width="100" align="right" src="https://cutewallpaper.org/26/artifical-intelligence-gif-wallpaper/a-comprehensive-guide-to-ai-assistant-design-by-nick-babich-ux-planet.gif">
 
 <h3 align="center">
   Welcome to Anas Ahmed's profile!
