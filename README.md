@@ -1,5 +1,5 @@
 
-<img width="250" align="right" src="https://blog.zoho.com/sites/zblogs/images/cliq/new-gear-1-converted-2019-10.gif">
+<img width="100" align="right" src="https://miro.medium.com/v2/resize:fit:720/0*ZHIv88N3CtwWjaBM.gif">
 
 <h3 align="center">
   Welcome to Anas Ahmed's profile!
