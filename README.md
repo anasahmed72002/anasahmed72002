@@ -1,9 +1,9 @@
 
-<img width="100" align="right" src="https://cutewallpaper.org/26/artifical-intelligence-gif-wallpaper/a-comprehensive-guide-to-ai-assistant-design-by-nick-babich-ux-planet.gif">
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
-  Welcome to Anas Ahmed's profile!
-  <img src="" width="28">
+  Welcome to Yousef Dergham's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -20,7 +20,8 @@
 
 ### Connect with Me :
 
-
+<a href="https://linkedin.com/in/yousefdergham" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://t.me/YousefMohamed01" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
@@ -44,6 +45,3 @@
 <a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
 </a>
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
